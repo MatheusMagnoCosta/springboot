@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-EskilloApplication<eskillo>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.eskillo.EskilloApplication",
+      "projectName": "eskillo",
+      "args": ""
+    }
+  ]
+}
